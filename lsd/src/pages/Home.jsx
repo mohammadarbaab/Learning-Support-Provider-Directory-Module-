@@ -221,7 +221,8 @@ export default function Home() {
           </div>
           <div>
             <h3 className="text-lg font-semibold text-[#800080] mb-4">Connect</h3>
-            <div className="flex space-x-4">
+            <div className="flex gap-2 flex-wrap flex-row
+            ">
               {['Facebook', 'Twitter', 'Instagram'].map((social) => (
                 <a key={social} href="#" className="text-black hover:text-white transition-colors">
                   {social}
