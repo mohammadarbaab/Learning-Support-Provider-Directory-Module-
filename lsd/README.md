@@ -12,8 +12,8 @@ A React-based directory module designed for **Habot Connect DMCC** that allows p
 
 ## 📸 Screenshots
 
-Home Page 
-| ![Home] (![Home](https://github.com/user-attachments/assets/687313fa-f81d-43c2-8460-b96049fe1242
+Home Page
+![Home](https://github.com/user-attachments/assets/2c67d518-f880-4bcd-9e0e-bfb79ae8fa5f)
 
 Providers Lists
 ![Search1](https://github.com/user-attachments/assets/04de64ed-2de8-4a27-b7c0-4462ec6b9564)
