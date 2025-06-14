@@ -6,7 +6,7 @@ A React-based directory module designed for **Habot Connect DMCC** that allows p
 
 ## 🔍 Live Demo
 
-**Deployed Link**: _[Add Netlify/Vercel link here once deployed]_
+**Deployed Link**: _[https://fantastic-bubblegum-19c3ac.netlify.app/]_
 
 ---
 
