@@ -10,9 +10,6 @@ import {
 } from '@heroicons/react/24/outline';
 
 export default function Home() {
-  useEffect(() => {
-    document.title = "LearnHub | Specialized Learning Support";
-  }, []);
 
   return (
     <div className="min-h-screen bg-white dark:bg-[#1E1E1E] transition-colors duration-300">
