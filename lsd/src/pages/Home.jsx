@@ -29,7 +29,7 @@ export default function Home() {
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link 
-                  to="/services" 
+                  to="/providers" 
                   className="px-8 py-4 bg-[#FFD700] hover:bg-[#FFC000] text-[#800080] font-bold rounded-lg text-center transition-all"
                 >
                   Explore Services
@@ -116,7 +116,7 @@ export default function Home() {
                 <h3 className="text-2xl font-bold text-[#800080] mb-3">{service.title}</h3>
                 <p className="text-gray-600 dark:text-gray-300 mb-6">{service.description}</p>
                 <Link 
-                  to="/services" 
+                  to="/" 
                   className="text-[#800080] font-semibold hover:underline flex items-center"
                 >
                   Learn more

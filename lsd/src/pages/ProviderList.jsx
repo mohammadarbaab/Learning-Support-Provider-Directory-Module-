@@ -6,7 +6,7 @@ function ProviderList() {
   const [providers, setProviders] = useState([]);
   const [searchTerm, setSearchTerm] = useState('');
   const [currentPage, setCurrentPage] = useState(1);
-  const [isLoading, setIsLoading] = useState(true); // Added loading state
+  const [isLoading, setIsLoading] = useState(true);
   const providersPerPage = 6;
 
   useEffect(() => {

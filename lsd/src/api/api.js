@@ -3,7 +3,7 @@
   // Simulate API call for providers list
   export const getProviders = () => {
     return new Promise((resolve) => {
-      setTimeout(() => resolve(data), 500); // 0.5 sec delay
+      setTimeout(() => resolve(data), 1000); 
     });
   };
 
