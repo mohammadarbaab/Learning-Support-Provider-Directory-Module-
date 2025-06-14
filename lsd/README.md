@@ -12,11 +12,14 @@ A React-based directory module designed for **Habot Connect DMCC** that allows p
 
 ## 📸 Screenshots
 
-| Home Page | Providers List | Provider Details |
-|-----------|----------------|------------------|
-| ![Home](./assets/homepage.png) | ![List](./assets/listing.png) | ![Detail](./assets/detail.png) |
+Home Page
+![Home](https://github.com/user-attachments/assets/2c67d518-f880-4bcd-9e0e-bfb79ae8fa5f)
 
----
+Providers Lists
+![Search1](https://github.com/user-attachments/assets/04de64ed-2de8-4a27-b7c0-4462ec6b9564)
+
+Providers Card
+![card](https://github.com/user-attachments/assets/0d4d4cbb-f537-495a-b9f1-2691d290ef5f)
 
 ## ✨ Features
 
